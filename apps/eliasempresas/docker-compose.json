@@ -1,0 +1,10 @@
+{
+  "services": [
+    {
+      "name": "eliasempresas",
+      "image": "eliasempresas/eliasempresas:v1.11.0",
+      "isMain": true,
+      "internalPort": "80"
+    }
+  ]
+}
