@@ -1,0 +1,24 @@
+{
+  "name": "ELIAS EMPRESAS",
+  "id": "eliasempresas",
+  "available": true,
+  "short_desc": "Olá aqui é as Elias Empresas",
+  "author": "eliasempresas",
+  "port": 8382,
+  "categories": [
+    "utilities"
+  ],
+  "description": "Olá aqui é as Elias Empresas"  
+  "tipi_version": 2,
+  "version": "v1.11.0",
+  "source": "https://git.eliasempresas.com/eliasempresas/aplicativosEE/eliasempresas",
+  "exposable": true,
+  "supported_architectures": [
+    "arm64",
+    "amd64"
+  ],
+  "created_at": 1745082405284,
+  "updated_at": 1745674974072,
+  "dynamic_config": true,
+  "form_fields": []
+}
